@@ -34,12 +34,12 @@ To develop the Railway Reservation System using Star UML tool.
 
 <img width="677" height="490" alt="image" src="https://github.com/user-attachments/assets/c0e3381e-cb40-4f61-8d59-e0bf7a3cf23c" />
 
-# PACHAGE DIAGRAM:
+# PACKAGE DIAGRAM:
 
 <img width="667" height="425" alt="image" src="https://github.com/user-attachments/assets/28997a68-ae3f-4f53-bb1a-4cf188fd72d4" />
 
 
 # RESULT:
 
-<img width="667" height="425" alt="image" src="https://github.com/user-attachments/assets/023d8032-ee4b-494e-984f-d9da938167fe" />
+Thus the project to develop e-ticketing system was developed using Star UML Software.
 
